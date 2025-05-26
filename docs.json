@@ -21,7 +21,7 @@
               "development"
             ]
           },
-          {
+            {
             "group": "Essentials",
             "pages": [
               {
@@ -29,7 +29,19 @@
             "pages": [
               "funding-reality"
             ]
-          },
+            },
+            {
+            "group": "Mindset",
+            "pages": [
+              "quickstart"
+            ]
+            },
+            {
+            "group": "Tech",
+            "pages": [
+              "quickstart"
+            ]
+            },
               "essentials/markdown",
               "essentials/code",
               "essentials/images",
