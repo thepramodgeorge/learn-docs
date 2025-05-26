@@ -89,12 +89,6 @@
                 "tab": "Contact",
                 "groups": [
                     {
-                        "group": "API Documentation",
-                        "pages": [
-                            "api-reference/introduction"
-                        ]
-                    },
-                    {
                         "group": "Endpoint Examples",
                         "pages": [
                             "api-reference/endpoint/get",
