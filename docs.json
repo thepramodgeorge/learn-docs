@@ -29,7 +29,6 @@
                                 "pages": [
                                     "funding/funding-overview",
                                     "funding-reality"
-                  
                                 ]
                             },
                             {
@@ -109,20 +108,20 @@
         "links": [
             {
                 "label": "Support",
-                "href": "mailto:hi@mintlify.com"
+                "href": "mailto:pramod@pramodgeorge.com"
             }
         ],
         "primary": {
             "type": "button",
-            "label": "Dashboard",
+            "label": "Join Community",
             "href": "https://dashboard.mintlify.com"
         }
     },
     "footer": {
         "socials": {
-            "x": "https://x.com/mintlify",
+            "x": "https://x.com/pramodgeorgehq",
             "github": "https://github.com/mintlify",
-            "linkedin": "https://linkedin.com/company/mintlify"
+            "linkedin": "https://linkedin.com/in/pramodgeorgehq"
         }
     }
 }
