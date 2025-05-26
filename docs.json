@@ -84,7 +84,7 @@
             "anchors": [
                 {
                     "anchor": "Documentation",
-                    "href": "https://mintlify.com/docs",
+                    "href": "https://pramodgeorge.mintlify.com",
                     "icon": "book-open-cover"
                 },
                 {
@@ -114,7 +114,7 @@
         "primary": {
             "type": "button",
             "label": "Join Community",
-            "href": "https://dashboard.mintlify.com"
+            "href": "https://pramodgeorge.com/news"
         }
     },
     "footer": {
