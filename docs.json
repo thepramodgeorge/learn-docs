@@ -24,6 +24,7 @@
           {
             "group": "Essentials",
             "pages": [
+              "funding-reality",
               "essentials/markdown",
               "essentials/code",
               "essentials/images",
