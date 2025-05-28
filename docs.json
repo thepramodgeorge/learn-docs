@@ -66,28 +66,130 @@
                 ]
             },
             {
-                "tab": "API Reference",
+                "tab": "Guides",
                 "groups": [
                     {
-                        "group": "API Documentation",
+                        "group": "Get Started",
                         "pages": [
-                            "api-reference/introduction"
+                            "index",
+                            "quickstart",
+                            "development"
                         ]
                     },
                     {
-                        "group": "Endpoint Examples",
+                        "group": "Essentials",
                         "pages": [
-                            "api-reference/endpoint/get",
-                            "api-reference/endpoint/create",
-                            "api-reference/endpoint/delete",
-                            "api-reference/endpoint/webhook"
+                            {
+                                "group": "Funding",
+                                "pages": [
+                                    "funding/funding-overview",
+                                    "funding-reality"
+                                ]
+                            },
+                            {
+                                "group": "Mindset",
+                                "pages": [
+                                    "quickstart"
+                                ]
+                            },
+                            {
+                                "group": "Tech",
+                                "pages": [
+                                    "quickstart"
+                                ]
+                            },
+                            {
+                                "group": "Investing",
+                                "pages": [
+                                    "quickstart"
+                                ]
+                            },
+                            {
+                                "group": "Books",
+                                "pages": [
+                                    "books/booklist"
+                                ]
+                            },
+                            "essentials/markdown",
+                            "essentials/code",
+                            "essentials/images",
+                            "essentials/settings",
+                            "essentials/navigation",
+                            "essentials/reusable-snippets"
                         ]
                     }
                 ]
             },
             {
-                "tab": "Contact",
+                "tab": "Guides",
                 "groups": [
+                    {
+                        "group": "Get Started",
+                        "pages": [
+                            "index",
+                            "quickstart",
+                            "development"
+                        ]
+                    },
+                    {
+                        "group": "Essentials",
+                        "pages": [
+                            {
+                                "group": "Funding",
+                                "pages": [
+                                    "funding/funding-overview",
+                                    "funding-reality"
+                                ]
+                            },
+                            {
+                                "group": "Mindset",
+                                "pages": [
+                                    "quickstart"
+                                ]
+                            },
+                            {
+                                "group": "Tech",
+                                "pages": [
+                                    "quickstart"
+                                ]
+                            },
+                            {
+                                "group": "Investing",
+                                "pages": [
+                                    "quickstart"
+                                ]
+                            },
+                            {
+                                "group": "Books",
+                                "pages": [
+                                    "books/booklist"
+                                ]
+                            },
+                            "essentials/markdown",
+                            "essentials/code",
+                            "essentials/images",
+                            "essentials/settings",
+                            "essentials/navigation",
+                            "essentials/reusable-snippets"
+                        ]
+                    }
+                ]
+            },
+            {
+                "tab": "Courses",
+                "groups": [
+                    {
+                        "group": "Personal Branding",
+                        "pages": [
+                            "api-reference/introduction"
+                        ]
+                    },
+                    {
+                        "group": "Finding Million Dollar Ideas",
+                        "pages": [
+                            "api-reference/introduction"
+                        ]
+                    },
                     {
                         "group": "Endpoint Examples",
                         "pages": [
