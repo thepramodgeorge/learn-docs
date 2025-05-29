@@ -55,6 +55,12 @@
                                     "books/booklist"
                                 ]
                             },
+                            {
+                                "group": "SaaS",
+                                "pages": [
+                                    "saas/idea-gen"
+                                ]
+                            },
                             "essentials/markdown",
                             "essentials/code",
                             "essentials/images",
