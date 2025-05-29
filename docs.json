@@ -62,6 +62,20 @@
                                     "saas/idea-gen"
                                 ]
                             },
+                            {
+                                "group": "Marketing",
+                                "icon":"rocket",
+                                "pages": [
+                                    "marketing/marketing-overview",
+                                    {
+                                "group": "Content Marketing",
+                                "pages": [
+                                    "marketing/content-marketing/cm-overview"
+                                    
+                                ]
+                            }
+                                ]
+                            },
                             "essentials/markdown",
                             "essentials/code",
                             "essentials/images",
