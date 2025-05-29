@@ -58,6 +58,7 @@
                             {
                                 "group": "SaaS",
                                 "pages": [
+                                    "saas/saas-overview",
                                     "saas/idea-gen"
                                 ]
                             },
